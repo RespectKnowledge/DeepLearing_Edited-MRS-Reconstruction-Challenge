@@ -23,7 +23,7 @@ Task2_model_finetuned_training_validation.py
 
 For training and validarion for task3, run this 
 
-
+task3_finetuned_training_validation.py
 
 # challenege desription website
 https://sites.google.com/view/edited-mrs-rec-challenge/challenge-description?authuser=0
