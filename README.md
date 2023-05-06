@@ -10,6 +10,7 @@ The proposed model is shwon below.
 
 The fine-tuned model used for task2 and task3 
 
-![model2](https://user-images.githubusercontent.com/46267777/236612386-0a202990-c44a-41a5-a157-82ffbc0f10a0.png)
+![model2_new](https://user-images.githubusercontent.com/46267777/236612500-6bb52e55-db9c-4c61-a312-1be4cfe4a294.png)
+
 
 
