@@ -19,8 +19,10 @@ We have trained attention based UNet using task1 simulated dataset and fine-tune
 
 For training and validarion for task2, run this 
 
+Task2_model_finetuned_training_validation.py
 
 For training and validarion for task3, run this 
+
 
 
 # challenege desription website
