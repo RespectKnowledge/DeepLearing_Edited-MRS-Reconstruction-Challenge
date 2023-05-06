@@ -26,7 +26,7 @@ Task2_model_finetuned_training_validation.py
 task3_finetuned_training_validation.py
 
 
-# for tasting submission task1, run this
+# For tasting submission task1, run this
 
 testing_submission_task_1.py
 
