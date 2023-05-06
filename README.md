@@ -28,6 +28,8 @@ task3_finetuned_training_validation.py
 
 # for tasting submission task1, run this
 
+testing_submission_task_1.py
+
 
 # challenege desription website
 https://sites.google.com/view/edited-mrs-rec-challenge/challenge-description?authuser=0
