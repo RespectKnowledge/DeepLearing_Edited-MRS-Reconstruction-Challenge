@@ -16,5 +16,6 @@ We have trained attention based UNet using task1 simulated dataset and fine-tune
 
 ![model2_new](https://user-images.githubusercontent.com/46267777/236612500-6bb52e55-db9c-4c61-a312-1be4cfe4a294.png)
 
-
+# challenege desription website
+https://sites.google.com/view/edited-mrs-rec-challenge/challenge-description?authuser=0
 
