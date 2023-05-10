@@ -32,7 +32,7 @@ task3_finetuned_training_validation.py
 
 # For testing and prediction submission task1, run this
 
-testing_submission_task_1.py
+task_1_testing_prediction.py
 
 # For testing and prediction submission task2, run this
 
