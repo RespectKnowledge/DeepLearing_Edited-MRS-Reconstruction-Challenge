@@ -36,7 +36,7 @@ task_1_testing_prediction.py
 
 # For testing and prediction submission task2, run this
 
-testing_submission_task_1.py
+task2_testing_prediction.py
 
 # For testing and prediction submission task3_2048, run this
 
