@@ -30,9 +30,22 @@ Task2_model_finetuned_training_validation.py
 task3_finetuned_training_validation.py
 
 
-# For tasting submission task1, run this
+# For testing and prediction submission task1, run this
 
 testing_submission_task_1.py
+
+# For testing and prediction submission task2, run this
+
+testing_submission_task_1.py
+
+# For testing and prediction submission task3_2048, run this
+
+testing_submission_task_1.py
+
+# For testing and prediction submission task3_4096, run this
+
+testing_submission_task_1.py
+
 
 
 # challenege desription website
